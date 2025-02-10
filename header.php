@@ -9,6 +9,6 @@
 </head>
 <body>
     <!-- Navbar -->
-    <nav class="navbar navbar-dark bg-secondary" style="width: 100%; height: 70px; margin: 0 auto;">
-            <h1 class="text-center">Welcome to a Weird Wedding</h1>        
+    <nav class="navbar navbar-dark bg-secondary" style="width: 100%; height: 70px; margin: 0 auto; text-align:center;">
+            <h1 class="mx-auto" style="width: fit-content;">Welcome to a Weird Wedding</h1>
     </nav>
